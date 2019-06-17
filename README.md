@@ -45,7 +45,7 @@ There are a number of techniques to draw inferences from the sample data. The mo
 
 ===============================================================================
 
-## 2. Sample and Population
+## 2. Sample vs Population
 
 I will start the discussion of population and sample as follows.
 
@@ -74,5 +74,8 @@ I will start the discussion of population and sample as follows.
 -	The best technique for reducing bias in sampling is **randomization**. 
 -	`Simple random sampling` is the simplest of randomization techniques. 
 -	`Cluster sampling` and `stratified sampling` are other systematic sampling techniques.
+
+
+===============================================================================
 
 
