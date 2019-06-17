@@ -78,4 +78,15 @@ I will start the discussion of population and sample as follows.
 
 ===============================================================================
 
+## 3. Sampling distributions
 
+
+-	A sampling distribution is a probability distribution of a test statistic which is obtained through a large number of samples drawn from a population.
+-	As we increase the sample size, sample mean approach towards normal distribution around the population mean. 
+-	The variability of the sample mean decreases as the sample size increases.
+-	As the sample size increases, the sampling distribution curve follows a normal distribution curve.
+-	The shape of the sampling distribution does not reveal anything about the shape of the population.
+-	Sampling distribution helps to estimate the population statistic. This will be explained by `Central Limit Theorem`.
+
+
+===============================================================================
