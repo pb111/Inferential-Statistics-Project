@@ -36,6 +36,12 @@
 ## 1. Introduction to Inferential Statistics
 
 
+Inferential statistics is the branch of statistics that allows us to draw inferences about the population data from the sample data. Inferential statistics help us to conclude whether a sample is significantly different from the population. They help us to find if one model is significantly better than the other. They help us to conduct hypothesis testing.
+
+
+There are a number of techniques to draw inferences from the sample data. The most important ones are `hypothesis testing`, `z test`,
+`t test`, `ANOVA` and `Chi-square goodness of fit test`. In this project, I will discuss these techniques. At first, I will start the discussion by discussing sample and population.
+
 
 ===============================================================================
 
