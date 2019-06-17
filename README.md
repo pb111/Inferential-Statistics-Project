@@ -8,6 +8,27 @@
 ## Table of Contents
 
 
+1.	Introduction to inferential statistics
+2.	Sample vs Population
+3.	Sampling distributions
+4.	Central Limit Theorem
+5.	Confidence intervals
+6.	Hypothesis testing
+    -	Null hypothesis
+    -	Alternate hypothesis
+7.	Types of errors in hypothesis testing
+    -	Type I error
+    -	Type II error
+8.	z test
+9.	t test
+10.	Different types of t test
+11.	ANOVA
+12.	Chi-square goodness of fit test
+13.	Regression and ANOVA
+14.	Coefficient of Determination (R-Square)
+15.	Correlation coefficient
+16.	References
+
 
 
 ===============================================================================
