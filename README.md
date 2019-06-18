@@ -118,4 +118,9 @@ There are several important points that we need to keep in mind regarding Centra
 2.	So, given a dataset with unknown distribution, the sample mean will approximate the normal distribution.
 3.	The greater the sample size the lower the standard error. So, the greater the accuracy in determining the population mean from the sample mean.
 
+===============================================================================
+
+
+
+
 
