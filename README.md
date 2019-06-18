@@ -90,3 +90,32 @@ I will start the discussion of population and sample as follows.
 
 
 ===============================================================================
+
+## 4. Central Limit Theorem
+
+-	Central Limit Theorem is one of the most important theorems in probability theory and statistics.
+-	It states that, under certain conditions, the sum of a large number of random variables is approximately normal.
+-	A version of the Central Limit Theorem applies to i.i.d. (Independent Identically Distributed) random variables.
+-	Suppose that X1, X2, …, Xn are i.i.d random variables with 
+expected values , E[Xi] = µ < ∞    and   variance , Var[Xi] = σ2  < ∞
+-	Then the sample mean has mean µ and variance σ2/n.
+
+### Assumptions underlying Central Limit Theorem
+
+There are several assumptions behind the Central Limit Theorem. These are as follows:-
+
+1.	The dataset must follow the randomization condition. It must be sampled randomly.
+2.	Samples drawn should be independent of each other.
+3.	Sample size should not be more than 10% of the population size when sampling is done without replacement.
+4.	The sample size should be large enough. In general, a sample size of 30 is considered sufficient when the population is symmetric.
+
+
+### Important points about Central Limit Theorem
+
+There are several important points that we need to keep in mind regarding Central Limit Theorem. These points are as follows:-
+
+1.	CLT is applicable irrespective of the type of the distribution of the population. 
+2.	So, given a dataset with unknown distribution, the sample mean will approximate the normal distribution.
+3.	The greater the sample size the lower the standard error. So, the greater the accuracy in determining the population mean from the sample mean.
+
+
