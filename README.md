@@ -174,6 +174,53 @@ There are several assumptions regarding the t-Test. These are as follows:-
 -	If the calculated p-value is below the threshold value for statistical significance, then we reject the null hypothesis in favour of the alternative hypothesis.
 
 
+### Types of t-Test
+
+There are three different types of t-test that can be performed depending on the data and requirement. These are 1-sample, 2-sample and Paired t-test. Their description are as follows:-
+
+
+#### 1. One-sample t-test
+
+-	One-sample t-tests are appropriate when a sample is being compared to the population from a hypothesis. 
+-	The population parameters are known in advance or are calculated from the population data.
+ 
+-	In testing the null hypothesis (Ho) that the population mean is equal to a specified value μ0, we use the t-statistic given by
+
+# D t-statistic
+
+-	x̅ is the sample mean. 
+-	s is the sample standard deviation of the sample and n is the sample size. 
+-	The degrees of freedom used in this test are n − 1. 
+-	The parent population does not need to be normally distributed, but the distribution of the population of sample means x̅ is assumed to be normal. 
+-	By the central limit theorem, if the observations are independent and the second moment exists, then t will be approximately normal N(0,1).
+
+
+#### 2. Independent two-sample t-test
+
+-	Two-sample t-tests are appropriate for comparing two samples. 
+-	These tests are typically experimental and evaluate samples from a controlled experiment.
+-	The two-sample t-test takes sample data from two groups and calculates the t-value.
+-	The 2-sample t-test requires independent groups for each sample.
+-	In this case, the t-statistic used is given by the following formula. 
+
+
+# D Two-sample t-test
+-	where the symbols have their usual meanings.
+
+
+#### 3. Paired t-test
+
+-	This test is used when the samples are dependent. 
+-	It is used when there is only one sample that has been tested twice (repeated measures) or when there are two samples that have been matched or "paired".
+-	The test statistic used in this case is given by
+
+# D Paired t-test
+
+-	The symbols have their usual meanings.
+-	The degree of freedom used is n − 1, where n represents the number of pairs.
+
+
+
 ===============================================================================
 
 
