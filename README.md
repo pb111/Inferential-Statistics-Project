@@ -111,6 +111,13 @@ There are several important points that we need to keep in mind regarding Centra
 
 ===============================================================================
 
+## 5. t-Test
+
+-	In statistics, a t-test is a type of inferential statistic. 
+-	The t-test is a statistical hypothesis test in which the test statistic follows a Student’s t-distribution under the null hypothesis. 
+-	It is used to determine if there is a significant difference between the means of two groups. 
+-	It is most likely used when the dataset follow a normal distribution and may have unknown variances.
+-	A t-test is used as a hypothesis testing tool, which allows testing of an assumption applicable to a population.
 
 
 ===============================================================================
