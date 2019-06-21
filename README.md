@@ -216,7 +216,7 @@ There are three different types of t-test that can be performed depending on the
 -	It is used when there is only one sample that has been tested twice (repeated measures) or when there are two samples that have been matched or "paired".
 -	The test statistic used in this case is given by
 
-# D Paired t-test
+![Paired t-test](https://github.com/pb111/Inferential-Statistics-Project/blob/master/Images/Paired%20t-test.png)
 
 -	The symbols have their usual meanings.
 -	The degree of freedom used is n − 1, where n represents the number of pairs.
