@@ -186,7 +186,7 @@ There are three different types of t-test that can be performed depending on the
  
 -	In testing the null hypothesis (Ho) that the population mean is equal to a specified value μ0, we use the t-statistic given by
 
-![D t-statistic](https://github.com/pb111/Inferential-Statistics-Project/blob/master/Images/t-statistic.png)
+![t-statistic](https://github.com/pb111/Inferential-Statistics-Project/blob/master/Images/t-statistic.png)
 
 -	x̅ is the sample mean. 
 -	s is the sample standard deviation of the sample and n is the sample size. 
@@ -204,7 +204,9 @@ There are three different types of t-test that can be performed depending on the
 -	In this case, the t-statistic used is given by the following formula. 
 
 
-# D Two-sample t-test
+![Two-sample t-test](https://github.com/pb111/Inferential-Statistics-Project/blob/master/Images/2-sample%20t-test.png)
+
+
 -	where the symbols have their usual meanings.
 
 
