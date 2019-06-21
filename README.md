@@ -131,6 +131,49 @@ There are several assumptions regarding the t-Test. These are as follows:-
 5.	The final assumption is the homogeneity of variance. Homogeneous or equal variance exists when the standard deviations of samples are approximately equal.
 
 
+### Steps to perform a t-Test
+
+-	A t-Test allows us to compare the average values of the two data sets and determine if they came from the same population. 
+-	Basically, there are four steps involved in performing a t-Test. These are as follows:-
+
+
+#### 1. Define a problem statement
+
+-	The first step is to define a problem statement.
+-	In the problem statement, we set up the null hypothesis (Ho) by assuming that the two sample means from each of the two data sets are equal.
+
+
+#### 2. Calculate a t-statistic
+
+-	The second step in conducting a t-Test is to calculate a t-statistic value. 
+-	The calculation of a t-statistic requires three key data values.
+-	They include the difference between the mean values from each data set (difference in means), the standard deviation of each group and the number of data values in each group.
+
+
+#### 3. Compare the t-statistic value with t-distribution values
+
+-	The outcome of the t-test yields a t-statistic value.
+-	This t-statistic value is then compared against a value obtained from a critical value table (called the T-Distribution Table).
+-	This comparison helps us to conclude whether the difference between means occurred by chance or whether the data sets really have intrinsic differences.
+-	The t-Test questions whether the difference between groups represents a true difference in the study or if it is just a meaningless statistical difference.
+
+
+#### 4. Interpret the result
+
+-	The t-distribution table is available in one-tail and two-tail formats.
+-	The one-tail format is used in those cases where the t-statistic have a fixed value with a clear direction (positive or negative).
+-	The two-tail format is used in cases where the t-statistic falls in a bounded range.
+-	The t-test produces two values as its output – t-value and degrees of freedom.
+-	Higher values of the t-value, also called t-score, indicate that a large difference exists between the two sample sets. So, a large t-score indicates that the groups are different.
+-	The smaller the t-value, the more similarity exists between the two sample sets. A small t-score indicates that the groups are similar.
+
+
+#### Decision criteria
+
+-	Alternatively, once the t-value and degrees of freedom are determined, a p-value can be found using the table of values from Student’s t-distribution. 
+-	If the calculated p-value is below the threshold value for statistical significance, then we reject the null hypothesis in favour of the alternative hypothesis.
+
+
 ===============================================================================
 
 
