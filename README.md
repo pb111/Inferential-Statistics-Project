@@ -120,6 +120,17 @@ There are several important points that we need to keep in mind regarding Centra
 -	A t-test is used as a hypothesis testing tool, which allows testing of an assumption applicable to a population.
 
 
+### t-Test Assumptions
+
+There are several assumptions regarding the t-Test. These are as follows:-
+
+1.	The sample mean X̅ follows a normal distribution with mean μ and variance σ2/n, where μ and σ are the mean and standard deviation of the population and n is the sample size.
+2.	The square of the standard error of the mean, s2 follows a χ2 distribution with n-1 degrees of freedom.
+3.	The second assumption is that the data is collected from a representative and randomly selected portion of the total population.
+4.	The sample size used should be reasonably large enough. A large sample size means the distribution of results should approach a normal bell-shaped curve.
+5.	The final assumption is the homogeneity of variance. Homogeneous or equal variance exists when the standard deviations of samples are approximately equal.
+
+
 ===============================================================================
 
 
