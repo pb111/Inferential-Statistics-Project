@@ -244,6 +244,57 @@ There are three different types of t-test that can be performed depending on the
 -	MSE=Mean sum of squares due to error
 
 
+### Steps to perform ANOVA
+
+The steps to perform ANOVA are as follows:-
+
+
+### 1. Define hypothesis
+
+-	In the first step, we define null hypothesis (Ho) and alternate hypothesis (H1). 
+-	Null hypothesis (Ho) is that means of all the groups are the same.
+-	Alternate hypothesis (H1) is that mean of at least one group is different.
+
+
+### 2. Calculate variability
+
+-	In the second step, we calculate between groups and within group variability. These are defined as follows:-
+
+#### Sum of square between groups
+
+-	For the sum of the square between groups, we calculate the individual means of each group.
+-	Then we take the difference between data points from the individual mean for each group. 
+-	Finally, we will take the sum of the square of difference for all the individual groups.
+
+#### Sum of squares within groups
+
+-	In order to get the sum of squares within a group, we calculate the grand mean for all groups and then take the deviation from the individual group.
+-	The sum of all groups will be done after the square of the deviation.
+
+### 3. Calculate F-ratio
+
+-	To calculate the F-ratio, the sum of the squares between groups will be divided by the sum of the square within a group.
+
+### 4. Decision rule
+
+-	In the last step, we compare the value of F-ratio with the critical value.
+-	To find out the critical value, we need the degrees of freedom and decided on level of significance (α = 0.05).
+
+
+#### Degrees of freedom
+
+-	To calculate the degree of freedom between the sums of the squares group, we will subtract one from the number of groups. So, df1 = k -1, where k is the number of groups.
+-	The sum of the square within the group’s degree of freedom will be calculated by subtracting the number of groups from the total observation. So, df2 = N – k, where N is the total number of observations.
+
+
+### 5. Conclusion 
+
+-	Now, we will conclude whether we should reject or do not reject the null hypothesis.
+-	We calculate the test-statistic by dividing the sum of squares with appropriate degrees of freedom.
+-	If the calculated value of test-statistic is greater than the critical value, then we should reject Ho and conclude that mean of at least one group is different.
+-	If the calculated value of test-statistic is smaller than the critical value, then we should not reject Ho and conclude that means of all the groups are same.
+
+
 ### Assumptions used in ANOVA
 
 There are four basic assumptions used in ANOVA. They are given below:-
@@ -276,31 +327,5 @@ There are various types of ANOVA test used in practice. These are as follows:-
 -	When we have more than one factor variable, then it is said to be **Two way ANOVA**.
 -	It is utilized to observe the interaction between the two factors and tests the effect of two factors at the same time.
 
-
-## Key terms and concepts
-
-
-### Sum of square between groups
-
--	For the sum of the square between groups, we calculate the individual means of each group.
--	Then we take the difference between data points from the individual mean for each group. 
--	Finally, we will take the sum of the square of difference for all the individual groups.
-
-
-### Sum of squares within group
-
--	In order to get the sum of squares within a group, we calculate the grand mean for all groups and then take the deviation from the individual group.
--	The sum of all groups will be done after the square of the deviation.
-
-
-### F-ratio
-
--	To calculate the F-ratio, the sum of the squares between groups will be divided by the sum of the square within a group.
-
-
-### Degree of freedom
-
--	To calculate the degree of freedom between the sums of the squares group, we will subtract one from the number of groups. 
--	The sum of the square within the group’s degree of freedom will be calculated by subtracting the number of groups from the total observation.
 
 ===============================================================================
