@@ -244,4 +244,16 @@ There are three different types of t-test that can be performed depending on the
 -	MSE=Mean sum of squares due to error
 
 
+### Assumptions used in ANOVA
+
+There are four basic assumptions used in ANOVA. They are given below:-
+
+1.	The expected values of the errors are zero.
+2.	The variances of all errors are equal to each other.
+3.	The errors are independent.
+4.	They are normally distributed.
+
+
+There are various types of ANOVA test used in practice. These are as follows:-
+
 ===============================================================================
