@@ -358,7 +358,7 @@ and the expected value.
 
 -	In the second step, we compute the value of Chi-Square goodness of fit test statistic using the following formula:
 
-![Chi Square Goodness of Fit test formula]
+![Chi Square Goodness of Fit test formula](https://github.com/pb111/Inferential-Statistics-Project/blob/master/Images/Chi%20square%20formula.png)
 
 ### 3. Select degree of freedom
 
