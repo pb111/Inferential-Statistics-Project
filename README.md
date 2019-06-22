@@ -256,4 +256,25 @@ There are four basic assumptions used in ANOVA. They are given below:-
 
 There are various types of ANOVA test used in practice. These are as follows:-
 
+
+### 1. One way ANOVA
+
+-	When we are comparing more than three groups based on one factor variable, then it is said to be **One way ANOVA**.
+-	The null hypothesis (Ho) for the test is that the means of the groups are equal.
+-	Therefore, a significant result means that the two means are unequal.
+
+
+### Limitations of one-way ANOVA
+
+-	A one way ANOVA test will tell us that at least two groups were different from each other.
+-	But, it won’t tell us what groups were different.
+-	If the test returns a significant f-statistic, we may need to run another test like Least Significant Difference to examine which groups had a difference in means.
+
+
+### 2. Two way ANOVA
+-	A two way ANOVA is just the extension of the one way ANOVA.
+-	When we have more than one factor variable, then it is said to be **Two way ANOVA**.
+-	It is utilized to observe the interaction between the two factors and tests the effect of two factors at the same time.
+
+
 ===============================================================================
