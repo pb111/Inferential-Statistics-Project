@@ -237,7 +237,7 @@ There are three different types of t-test that can be performed depending on the
 
 -	The Formula for ANOVA is given by the following formula-
 
-# D-Formula for ANOVA
+![Formula for ANOVA](https://github.com/pb111/Inferential-Statistics-Project/blob/master/Images/Formula%20for%20ANOVA.png)
 
 -	F=ANOVA coefficient
 -	MST=Mean sum of squares due to treatment
