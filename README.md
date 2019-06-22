@@ -420,7 +420,7 @@ The disadvantages of the chi-square goodness of fit test are as follows:-
 Mathematically, the above terminology is represented by the following diagram-
 
 
-# D ! [Sum of squares in regression analysis]
+![Sum of squares in regression analysis](https://github.com/pb111/Inferential-Statistics-Project/blob/master/Images/Sum%20of%20squares.png)
 
 ===============================================================================
 
