@@ -381,6 +381,95 @@ The disadvantages of the chi-square goodness of fit test are as follows:-
 
 ===============================================================================
 
-===============================================================================
+## 8. Linear regression analysis
+
+-	In this test, a linear algorithm is used to understand the relationship between two variables from the data set. 
+-	One of those variables is the dependent variable, while there can be one or more independent variables used. 
+-	We try to predict the value of the dependent variable based on the available values of the independent variables. 
+-	This is usually represented by using a scatter plot.
+
+
+### Regression and ANOVA
+
+
+-	With the help of ANOVA techniques, we can analyse a model performance very much like we analyse samples for being statistically different or not.
+-	Sample in case of a regression model with pre-defined features and feature weights whereas mean is replaced by variance (of both dependent and independent variables).
+-	Through our ANOVA test we would like to know the amount of variance explained by the independent variables and the amount of variance that was left unexplained.
+-	The larger the unexplained variance of the dependent variable smaller will be the ratio and less effective is our regression model. 
+-	If we have a large explained variance then our regression model was successful in explaining the variance in the dependent variable and more effective is our model. 
+-	The ratio of explained variance and unexplained variance is called **F-Ratio**.
+
+
+### Basic terminology in regression analysis
+
+-	Now, I will define basic terms used in regression analysis.
+
+**Explained Sum of Squares (SSE)**  
+
+-	It is defined as the amount of variation in the dependent variable which is explained by the regression model.
+
+**Residual Sum of Squares (SSR)**  
+
+-	It is defined as the amount of variation in the dependent variable which is not explained by the regression model.
+
+**Coefficient of Determination (R2)**
+
+-	It is defined as the ratio of the amount of variance explained by the regression model to the total variation in the data. 
+-	It represents the strength of correlation between two variables.
+
+Mathematically, the above terminology is represented by the following diagram-
+
+
+# D ! [Sum of squares in regression analysis]
 
 ===============================================================================
+
+## 9. Correlation analysis
+
+-	Correlation analysis is a statistical technique which is used to evaluate the strength of relationship between two quantitative variables.
+-	Correlation analysis is performed to identify the strength of relationships between pair of variables.
+-	The value of correlation coefficient r varies between -1 and +1.
+-	A value of -1 or +1 for r indicate a perfect correlation (+1 is for perfect positive correlation while -1 is for perfect negative correlation).
+-	A value of 0 for r indicate no correlation at all.
+-	Values of r between 0 and 1 indicate a partial correlation, which may be significant or not.
+-	A high correlation means that two or more variables have a strong relationship with each other, while a weak correlation means that variables are hardly related.
+-	This statistical technique is strictly related to the linear regression analysis discussed above.
+
+===============================================================================
+
+
+## 10. References
+The work done in this project is inspired from the following books and websites:-
+
+1.	Think Stats – Exploratory Data Analysis in Python by Allen B. Downey 
+2.	Udemy course – Statistics for Data Science for Business Analysis
+3.	https://acadgild.com/blog/inferential-statistics-definition-and-types
+
+4.	https://towardsdatascience.com/inferential-statistics-for-data-science-b0075670fc8a
+5.   https://www.analyticsvidhya.com/blog/2017/01/comprehensive-practical-guide-  
+      inferential-statistics-data-science/
+6.	https://www.probabilitycourse.com/chapter7/7_1_2_central_limit_theorem.php
+
+7.	https://www.analyticsvidhya.com/blog/2019/05/statistics-101-introduction-central-limit-theorem/
+
+8.	https://en.wikipedia.org/wiki/Student%27s_t-test
+
+9.	https://www.investopedia.com/terms/t/t-test.asp
+
+10.	https://blog.minitab.com/blog/adventures-in-statistics-2/understanding-t-tests-1-sample-2-sample-and-paired-t-tests 
+
+11.	https://en.wikipedia.org/wiki/Analysis_of_variance
+
+12.	https://www.investopedia.com/terms/a/anova.asp
+
+13.	https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/hypothesis-testing/anova/
+
+14.	https://www.statisticssolutions.com/anova-analysis-of-variance/
+
+15.	https://en.wikipedia.org/wiki/Chi-squared_test
+
+16.	https://www.statisticssolutions.com/chi-square-goodness-of-fit-test/
+
+17.	https://www.statisticshowto.datasciencecentral.com/goodness-of-fit-test/
+
+18.	https://www.sciencedirect.com/topics/medicine-and-dentistry/correlation-analysis
