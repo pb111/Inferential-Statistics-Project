@@ -277,4 +277,30 @@ There are various types of ANOVA test used in practice. These are as follows:-
 -	It is utilized to observe the interaction between the two factors and tests the effect of two factors at the same time.
 
 
+## Key terms and concepts
+
+
+### Sum of square between groups
+
+-	For the sum of the square between groups, we calculate the individual means of each group.
+-	Then we take the difference between data points from the individual mean for each group. 
+-	Finally, we will take the sum of the square of difference for all the individual groups.
+
+
+### Sum of squares within group
+
+-	In order to get the sum of squares within a group, we calculate the grand mean for all groups and then take the deviation from the individual group.
+-	The sum of all groups will be done after the square of the deviation.
+
+
+### F-ratio
+
+-	To calculate the F-ratio, the sum of the squares between groups will be divided by the sum of the square within a group.
+
+
+### Degree of freedom
+
+-	To calculate the degree of freedom between the sums of the squares group, we will subtract one from the number of groups. 
+-	The sum of the square within the group’s degree of freedom will be calculated by subtracting the number of groups from the total observation.
+
 ===============================================================================
