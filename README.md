@@ -327,5 +327,60 @@ There are various types of ANOVA test used in practice. These are as follows:-
 -	When we have more than one factor variable, then it is said to be **Two way ANOVA**.
 -	It is utilized to observe the interaction between the two factors and tests the effect of two factors at the same time.
 
+===============================================================================
+
+
+## 7. Chi-square goodness of fit test
+
+
+-	The goodness of fit test is used to test if a sample data fits a distribution from a certain population.
+-	Chi-square goodness of fit test is the most common of the goodness of fit test.
+-	The chi-squared test is used to determine whether there is a significant difference between the expected frequencies and the observed frequencies in one or more categories of the data.
+-	It is a non-parametric test that is used to examine how the observed value of a given phenomenon is different from the expected value.
+-	This distribution is denoted by χ2 random variable.
+-	A random variable χ2 is said to have a chi-square distribution with m degrees of freedom if it is the sum of the squares of m independent standard normal random variables.
+
+
+### Steps for Chi-square goodness of fit test
+
+The steps for chi-square goodness of fit test are as follows:-
+
+
+### 1. Define hypothesis 
+
+-	The first step is to define null hypothesis (Ho) and alternate hypothesis (H1).
+-	In Chi-Square goodness of fit test, the null hypothesis (Ho) assumes that there is no significant difference between the observed 
+and the expected value. 
+-	The alternative hypothesis (H1) assumes that there is a significant difference between the observed and the expected value.
+
+
+### 2. Compute value of chi-square goodness of fit test
+
+-	In the second step, we compute the value of Chi-Square goodness of fit test statistic using the following formula:
+
+![Chi Square Goodness of Fit test formula]
+
+### 3. Select degree of freedom
+
+-	In Chi-Square goodness of fit test, the degree of freedom depends on the distribution of the sample. 
+-	The Binomial, Poisson and Normal distribution results in n-1, n-2 and n-3 degrees of freedom.
+
+
+### 4. Hypothesis testing
+
+-	In this step, we compare the of Chi-Square goodness of fit test calculated value with the table value.  
+-	If this calculated value is greater than the table value, we will reject the null hypothesis and conclude that there is a significant difference between the observed and the expected frequency.  
+-	If the calculated value is less than the table value, we do not reject the null hypothesis and conclude that there is no significant difference between the observed and expected value.
+
+
+### Disadvantages of chi-square goodness of fit test
+
+The disadvantages of the chi-square goodness of fit test are as follows:-
+1.	The chi-square test can only be used for data classified into bins. If we have non-binned data we will need to make a frequency-table or histogram before performing the test.
+2.	Another disadvantage is that this test requires a sufficient sample size in order for the chi-square approximation to be valid.
+
+===============================================================================
+
+===============================================================================
 
 ===============================================================================
