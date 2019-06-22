@@ -222,7 +222,15 @@ There are three different types of t-test that can be performed depending on the
 -	The degree of freedom used is n − 1, where n represents the number of pairs.
 
 
-
 ===============================================================================
 
+## 6. ANOVA
 
+-	ANOVA is an acronym for **Analysis of Variance**.
+-	It can be used in cases where we want to compare the means of more than two groups.
+-	The ANOVA test allows a comparison of more than two groups to determine whether a relationship exists between them.
+-	The result of the ANOVA formula, the F-statistic (also called F-ratio) allows for the analysis of multiple groups of data to determine the variability between samples and within samples.
+-	The null hypothesis (Ho) is that there is no real difference exists between the tested groups. So, the result of the ANOVA’s F-ratio statistic will be close to 1.
+
+
+===============================================================================
