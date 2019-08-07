@@ -17,7 +17,7 @@
 7.	Chi-square goodness of fit test
 8.	Linear regression analysis
 9.	Correlation analysis
-10.	References
+10.	Reference
 
 
 ===============================================================================
